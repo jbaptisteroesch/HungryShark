@@ -34,8 +34,8 @@ function h.add(name, score)
 end
 
 function h.save()
-  io.open("assets/leaderboard/leaderboard.txt","w"):close()
-  file = io.open("assets/leaderboard/leaderboard.txt", "a")
+  io.open("src/assets/leaderboard/leaderboard.txt","w"):close()
+  file = io.open("src/assets/leaderboard/leaderboard.txt", "a")
   for i = 1, #h.scores do
     if i == 7 then
       break

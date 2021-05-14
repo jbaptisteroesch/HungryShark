@@ -2,6 +2,8 @@
 
 HungryShark est un mini jeu réalisé dans le but d'apprendre le language de programmation "Lua" lié à la bibliothèque graphique "Löve2d".
 
+Utilisation : ./HungryShark.sh pour lancer le jeu
+
 Crédits : 
 
 Assets :
